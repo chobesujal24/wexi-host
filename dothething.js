@@ -1,18 +1,18 @@
 const siteConfig = {
   "veck.io": {
-    mainScript: "https://raw.githubusercontent.com/TJGTA3/rectehoststuff/refs/heads/main/veck.js",
+    mainScript: "https://raw.githubusercontent.com/chobesujal24/wexi-host/refs/heads/main/veck.js",
   },
   "smashkarts.io": {
-    mainScript: "https://raw.githubusercontent.com/TJGTA3/rectehoststuff/refs/heads/main/sk.js",
+    mainScript: "https://raw.githubusercontent.com/chobesujal24/wexi-host/refs/heads/main/sk.js",
   },
   "kour.io": {
-    mainScript: "https://raw.githubusercontent.com/TJGTA3/rectehoststuff/refs/heads/main/kour.js",
+    mainScript: "https://raw.githubusercontent.com/chobesujal24/wexi-host/refs/heads/main/kour.js",
   },
   "narrow.one": {
-    mainScript: "https://raw.githubusercontent.com/TJGTA3/rectehoststuff/refs/heads/main/narrowone.js",
+    mainScript: "https://raw.githubusercontent.com/chobesujal24/wexi-host/refs/heads/main/narrowone.js",
   },
   "buildnow-gg.game-files.crazygames.com" : {
-mainScript: "https://raw.githubusercontent.com/TJGTA3/rectehoststuff/refs/heads/main/bngg.js", 
+mainScript: "https://raw.githubusercontent.com/chobesujal24/wexi-host/refs/heads/main/bngg.js", 
 }
 };
 
